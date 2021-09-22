@@ -20,7 +20,7 @@ dependencies:
   dio: ^4.0.0
   carousel_slider: ^4.0.0
   web_socket_channel: ^2.1.0
-  flutter_speed_dial: ^4.3.0
+  flutter_speed_dial: 4.3.0
 
 dev_dependencies:
   flutter_test:
