@@ -46,6 +46,9 @@ Re-layout the Main screen with Bottom Navigation Bar, users can easily see and a
     
     `flutter run` or `flutter run --release` (for best performance)
 
+* [APKs files](/APKs)
+* [Demo video](/video/demo.mp4)
+
 ## Data source
 https://binance-docs.github.io/apidocs/spot/en/#24hr-ticker-price-change-statistics
 
