@@ -28,7 +28,7 @@ Re-layout the Main screen with Bottom Navigation Bar, users can easily see and a
 
 ## App architecture
 
-![](https://i.imgur.com/iOBhL2S.png)
+![](/images/diagram.png?raw=true)
 
 
 ## Libraries
@@ -41,7 +41,9 @@ Re-layout the Main screen with Bottom Navigation Bar, users can easily see and a
 ## Build & Run app
 * Environment: Flutter 2.2.2, Dart 2.13.3
 * Run app: 
+    
     `cd` to source directory
+    
     `flutter run` or `flutter run --release` (for best performance)
 
 ## Data source
